@@ -2,7 +2,8 @@
 
 ⚡ Desarrollo Móvil
 
+⚡ Modding Android
+
 ⚡ Ciberseguridad
 
-### Felipe Sandoval Cornejo
 #### Departamento de Informática, Universidad Técnica Federico Santa María
