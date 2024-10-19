@@ -1,5 +1,1 @@
-### 👋
-
-⚡ Entusiasta
-
-#### Departamento de Informática, Universidad Técnica Federico Santa María
+#### Departamento de Informática, Universidad Técnica Federico Santa María.
